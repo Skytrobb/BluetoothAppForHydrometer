@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\skynet\\AndroidStudioProjects\\Practice App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "outputFile": "C:\\Users\\Duntey\\AndroidStudioProjects\\BluetoothAppForHydrometer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\skynet\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\90249cc9e7b4ffc316b509fa4895c1c8\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\Duntey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\756be623d53c2066c105da4d01daf9d3\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\skynet\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\03ce612947f5af7f381ad09cb3d7f4d4\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\Duntey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\889703a4aaa4c6343f254c1bf2a353f5\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
